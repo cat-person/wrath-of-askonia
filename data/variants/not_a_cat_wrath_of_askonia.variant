@@ -1,0 +1,40 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 2,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "not_a_cat_wrath_of_askonia",
+    "hullMods": [],
+    "quality": 1.0,
+    "variantId": "not_a_cat_wrath_of_askonia",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "gigacannon",
+                "WS 000": "gigacannon",
+                "WS 002": "gigacannon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "pdburst",
+                "WS 004": "pdburst",
+                "WS 005": "pdlaser",
+                "WS 006": "pdlaser",
+                "WS 007": "lrpdlaser",
+                "WS 008": "lrpdlaser",
+                "WS 009": "heavyburst",
+                "WS 010": "heavyburst",
+                "WS 011": "pdburst",
+                "WS 012": "pdburst",
+                "WS 013": "pdlaser",
+                "WS 014": "pdlaser",
+                
+            }
+        }
+    ]
+}
