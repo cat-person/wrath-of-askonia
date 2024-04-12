@@ -1,9 +1,9 @@
 {
 	"id":"woa_lions_judgement",  # this id must match what's in the spreadsheet
 	"specClass":"projectile",
-	"type":"BALLISTIC",
+	"type":"ENERGY",
 	"size":"LARGE",
-	"displayArcRadius":1200,
+	"displayArcRadius":800,
 	"turretSprite":"graphics/weapons/gauss_cannon_turret_base.png",
 	"turretGlowSprite":"graphics/weapons/gauss_cannon_turret_glow.png",
 	"hardpointSprite":"graphics/weapons/gauss_cannon_hardpoint_base.png",
