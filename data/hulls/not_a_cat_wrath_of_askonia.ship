@@ -66,7 +66,7 @@
         {
             "id": "WS 003",
             "size": "MEDIUM",
-            "type": "ENERGY",
+            "type": "HYBRID",
             "mount": "TURRET",
             "arc": 60,
             "angle": 0,
@@ -88,7 +88,7 @@
         {
             "id": "WS 005",
             "size": "SMALL",
-            "type": "HYBRID",
+            "type": "ENERGY",
             "mount": "TURRET",
             "arc": 90,
             "angle": 315,
