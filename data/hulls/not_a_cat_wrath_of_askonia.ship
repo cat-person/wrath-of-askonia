@@ -67,8 +67,8 @@
             "id": "WS 003",
             "size": "MEDIUM",
             "type": "HYBRID",
-            "mount": "TURRET",
-            "arc": 60,
+            "mount": "HARDPOINT",
+            "arc": 4,
             "angle": 0,
             "locations": [
                    126.5,     51.5
@@ -78,8 +78,8 @@
             "id": "WS 004",
             "size": "MEDIUM",
             "type": "HYBRID",
-            "mount": "TURRET",
-            "arc": 60,
+            "mount": "HARDPOINT",
+            "arc": 4,
             "angle": 0,
             "locations": [
                    126.5,    -51.5
@@ -242,28 +242,6 @@
             "angle": 150,
             "locations": [
                      -96,       68
-            ]
-        },
-        {
-            "id": "WS 019",
-            "size": "SMALL",
-            "type": "ENERGY",
-            "mount": "TURRET",
-            "arc": 140,
-            "angle": 150,
-            "locations": [
-                    -105,     50.5
-            ]
-        },
-        {
-            "id": "WS 020",
-            "size": "SMALL",
-            "type": "ENERGY",
-            "mount": "TURRET",
-            "arc": 140,
-            "angle": 210,
-            "locations": [
-                    -105,    -50.5
             ]
         },
     ],
