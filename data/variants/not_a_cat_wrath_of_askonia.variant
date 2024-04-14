@@ -13,27 +13,27 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 001": "gigacannon",
-                "WS 000": "gigacannon",
                 "WS 002": "gigacannon",
+                "WS 015": "heavyburst",
+                "WS 016": "heavyburst"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 003": "pdburst",
-                "WS 004": "pdburst",
-                "WS 005": "pdlaser",
-                "WS 006": "pdlaser",
-                "WS 007": "lrpdlaser",
-                "WS 008": "lrpdlaser",
-                "WS 009": "heavyburst",
-                "WS 010": "heavyburst",
+                "WS 003": "tpc",
+                "WS 004": "tpc",
                 "WS 011": "pdburst",
                 "WS 012": "pdburst",
-                "WS 013": "pdlaser",
-                "WS 014": "pdlaser",
-                
+                "WS 005": "pdburst",
+                "WS 006": "pdburst",
+                "WS 013": "heavyburst",
+                "WS 014": "heavyburst",
+                "WS 007": "gravitonbeam",
+                "WS 008": "gravitonbeam",
+                "WS 009": "taclaser",
+                "WS 010": "taclaser"
             }
         }
     ]
