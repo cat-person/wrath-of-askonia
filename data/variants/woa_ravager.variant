@@ -3,10 +3,10 @@
     "fluxCapacitors": 2,
     "fluxVents": 0,
     "goalVariant": true,
-    "hullId": "not_a_cat_wrath_of_askonia",
+    "hullId": "woa_ravager",
     "hullMods": [],
     "quality": 1.0,
-    "variantId": "not_a_cat_wrath_of_askonia",
+    "variantId": "woa_ravager",
     "weaponGroups": [
         {
             "autofire": false,
