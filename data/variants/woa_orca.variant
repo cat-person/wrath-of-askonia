@@ -12,7 +12,14 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 001": "hephag"
+                "WS 019": "hydra",
+                "WS 018": "hydra",
+                "WS 013": "heavyburst",
+                "WS 014": "heavyburst",
+                "WS 000": "pdburst",
+                "WS 012": "lightneedler",
+                "WS 015": "vulcan",
+                "WS 016": "vulcan"
             }
         },
         {
@@ -21,32 +28,32 @@
             "weapons": {
                 "WS 002": "heavyneedler",
                 "WS 003": "heavyneedler",
-                "WS 006": "railgun",
-                "WS 007": "railgun",
+                "WS 006": "hveldriver",
+                "WS 007": "hveldriver"
             }
         },
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 004": "sabotpod",
-                "WS 005": "sabotpod",
+                "WS 004": "hil",
+                "WS 005": "tachyonlance"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 010": "gazer",
-                "WS 011": "gazer",
+                "WS 010": "pdburst",
+                "WS 011": "lightneedler"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 008": "vulcan",
-                "WS 009": "vulcan",
+                "WS 008": "pdburst",
+                "WS 009": "pdburst"
             }
         }
     ]
