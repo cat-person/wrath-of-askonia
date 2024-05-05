@@ -17,8 +17,8 @@
     "shieldRadius": 200,
     "viewOffset": 0,
     "builtInMods": [
-        solar_shielding,
-        "distributed_fire_control",
+        "solar_shielding",
+        "fluxbreakers",
         "defensive_targeting_array"
     ],
     "builtInWings": [],
@@ -27,45 +27,45 @@
         {
             "id": "WS 002",
             "size": "MEDIUM",
-            "type": "HYBRID",
+            "type": "BALLISTIC",
             "mount": "HARDPOINT",
             "arc": 6,
             "angle": 0,
             "locations": [
-                   157.5,     18.5
+                     165,     19.5
             ]
         },
         {
             "id": "WS 003",
             "size": "MEDIUM",
-            "type": "HYBRID",
+            "type": "BALLISTIC",
             "mount": "HARDPOINT",
             "arc": 6,
             "angle": 0,
             "locations": [
-                   157.5,    -18.5
+                     165,    -19.5
             ]
         },
         {
             "id": "WS 006",
             "size": "MEDIUM",
-            "type": "BALLISTIC",
+            "type": "MISSILE",
             "mount": "TURRET",
-            "arc": 120,
+            "arc": 90,
             "angle": 45,
             "locations": [
-                      79,       42
+                    74.5,       17
             ]
         },
         {
             "id": "WS 007",
             "size": "MEDIUM",
-            "type": "BALLISTIC",
+            "type": "MISSILE",
             "mount": "TURRET",
-            "arc": 120,
+            "arc": 90,
             "angle": 315,
             "locations": [
-                      79,      -42
+                    74.5,      -17
             ]
         },
         {
@@ -73,10 +73,10 @@
             "size": "LARGE",
             "type": "ENERGY",
             "mount": "TURRET",
-            "arc": 140,
-            "angle": 60,
+            "arc": 200,
+            "angle": 90,
             "locations": [
-                    24.5,     81.5
+                     -13,     90.5
             ]
         },
         {
@@ -84,10 +84,10 @@
             "size": "LARGE",
             "type": "ENERGY",
             "mount": "TURRET",
-            "arc": 140,
-            "angle": 300,
+            "arc": 200,
+            "angle": 270,
             "locations": [
-                    24.5,    -81.5
+                     -13,    -90.5
             ]
         },
         {
@@ -98,7 +98,7 @@
             "arc": 130,
             "angle": 140,
             "locations": [
-                  -116.5,     55.5
+                  -138.5,     57.5
             ]
         },
         {
@@ -109,7 +109,7 @@
             "arc": 130,
             "angle": 220,
             "locations": [
-                  -116.5,    -55.5
+                  -138.5,    -57.5
             ]
         },
         {
@@ -117,10 +117,10 @@
             "size": "SMALL",
             "type": "ENERGY",
             "mount": "TURRET",
-            "arc": 99,
-            "angle": 280,
+            "arc": 120,
+            "angle": 310,
             "locations": [
-                     121,      -53
+                   121.5,    -47.5
             ]
         },
         {
@@ -128,10 +128,10 @@
             "size": "SMALL",
             "type": "ENERGY",
             "mount": "TURRET",
-            "arc": 99,
-            "angle": 80,
+            "arc": 120,
+            "angle": 50,
             "locations": [
-                     121,       53
+                   121.5,     47.5
             ]
         },
         {
@@ -140,9 +140,9 @@
             "type": "BALLISTIC",
             "mount": "TURRET",
             "arc": 90,
-            "angle": 22.5,
+            "angle": 35,
             "locations": [
-                     146,       46
+                     148,     43.5
             ]
         },
         {
@@ -151,31 +151,31 @@
             "type": "BALLISTIC",
             "mount": "TURRET",
             "arc": 90,
-            "angle": 337.5,
+            "angle": 325,
             "locations": [
-                     146,      -46
+                     148,    -43.5
             ]
         },
         {
             "id": "WS 013",
             "size": "MEDIUM",
-            "type": "SYNERGY",
+            "type": "HYBRID",
             "mount": "TURRET",
             "arc": 120,
-            "angle": 90,
+            "angle": 70,
             "locations": [
-                      -5,       51
+                      23,       62
             ]
         },
         {
             "id": "WS 014",
             "size": "MEDIUM",
-            "type": "SYNERGY",
+            "type": "HYBRID",
             "mount": "TURRET",
             "arc": 120,
-            "angle": 270,
+            "angle": 290,
             "locations": [
-                      -5,      -51
+                      23,      -62
             ]
         },
         {
@@ -186,7 +186,7 @@
             "arc": 110,
             "angle": 140,
             "locations": [
-                    -129,       29
+                    -154,     33.5
             ]
         },
         {
@@ -197,40 +197,62 @@
             "arc": 110,
             "angle": 220,
             "locations": [
-                    -129,      -29
+                    -154,    -33.5
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "LARGE",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 180,
+            "locations": [
+                    -117,      0.5
             ]
         },
         {
             "id": "WS 017",
-            "size": "SMALL",
-            "type": "SYSTEM",
-            "mount": "HARDPOINT",
-            "arc": 0,
-            "angle": 180,
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 120,
+            "angle": 110,
             "locations": [
-                    -153,       -2
+                     -48,     67.5
             ]
         },
         {
             "id": "WS 018",
-            "size": "LARGE",
-            "type": "SYNERGY",
+            "size": "MEDIUM",
+            "type": "HYBRID",
             "mount": "TURRET",
-            "arc": 140,
-            "angle": 240,
+            "arc": 120,
+            "angle": 250,
             "locations": [
-                   -35.5,      -83
+                     -48,    -67.5
             ]
         },
         {
             "id": "WS 019",
-            "size": "LARGE",
-            "type": "SYNERGY",
+            "size": "MEDIUM",
+            "type": "MISSILE",
             "mount": "TURRET",
-            "arc": 140,
-            "angle": 120,
+            "arc": 90,
+            "angle": 45,
             "locations": [
-                   -35.5,       83
+                      63,     50.5
+            ]
+        },
+        {
+            "id": "WS 020",
+            "size": "MEDIUM",
+            "type": "MISSILE",
+            "mount": "TURRET",
+            "arc": 90,
+            "angle": 315,
+            "locations": [
+                      63,    -50.5
             ]
         },
         {
@@ -241,7 +263,7 @@
             "arc": 0,
             "angle": 0,
             "locations": [
-                   -77.5,       70
+                     -90,     60.5
             ]
         },
         {
@@ -252,14 +274,14 @@
             "arc": 0,
             "angle": 0,
             "locations": [
-                   -77.5,      -70
+                     -90,    -60.5
             ]
         }
     ],
     "engineSlots": [
         {
             "location": [
-                -170.5, 19.5
+                -174, 22
             ],
             "length": 64,
             "width": 24,
@@ -269,7 +291,7 @@
         },
         {
             "location": [
-                -170.5, -19.5
+                -174, -22
             ],
             "length": 64,
             "width": 24,
@@ -279,7 +301,7 @@
         },
         {
             "location": [
-                -162, 40
+                -173.5, 41.5
             ],
             "length": 64,
             "width": 20,
@@ -289,7 +311,7 @@
         },
         {
             "location": [
-                -162, -40
+                -173.5, -41.5
             ],
             "length": 64,
             "width": 20,
@@ -299,7 +321,7 @@
         },
         {
             "location": [
-                -152.5, -58.5
+                -163.5, -65
             ],
             "length": 64,
             "width": 16,
@@ -309,7 +331,7 @@
         },
         {
             "location": [
-                -152.5, 58.5
+                -163.5, 65
             ],
             "length": 64,
             "width": 16,
