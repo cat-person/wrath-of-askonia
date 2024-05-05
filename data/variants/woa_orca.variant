@@ -1,14 +1,17 @@
 {
     "displayName": "Bully",
-    "fluxCapacitors": 0,
-    "fluxVents": 38,
+    "fluxCapacitors": 5,
+    "fluxVents": 48,
     "goalVariant": false,
     "hullId": "woa_orca",
     "hullMods": [
-        "turretgyros",
-        "advancedoptics",
+        "targetingunit",
         "heavyarmor",
-        "targetingunit"
+        "turretgyros"
+    ],
+    "sMods": [
+        "turretgyros",
+        "augmentedengines"
     ],
     "quality": 0.0,
     "variantId": "woa_orca",
@@ -23,11 +26,11 @@
                 "WS 012": "lightneedler",
                 "WS 015": "vulcan",
                 "WS 016": "vulcan",
-                "WS 001": "guardian",
-                "WS 020": "gorgonpod",
-                "WS 019": "gorgonpod",
                 "WS 017": "heavyburst",
-                "WS 018": "heavyburst"
+                "WS 019": "gorgonpod",
+                "WS 020": "gorgonpod",
+                "WS 018": "heavyburst",
+                "WS 001": "guardian"
             }
         },
         {
@@ -36,8 +39,8 @@
             "weapons": {
                 "WS 002": "heavyneedler",
                 "WS 003": "heavyneedler",
-                "WS 007": "gorgonpod",
-                "WS 006": "gorgonpod"
+                "WS 006": "gorgonpod",
+                "WS 007": "gorgonpod"
             }
         },
         {
@@ -64,5 +67,9 @@
                 "WS 009": "pdburst"
             }
         }
+    ],
+    "wings": [
+        "wasp_wing",
+        "wasp_wing"
     ]
 }
