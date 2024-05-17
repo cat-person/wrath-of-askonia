@@ -12,10 +12,14 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 001": "gigacannon",
-                "WS 002": "gigacannon",
+                "WS 019": "lightdualmg",
+                "WS 018": "lightdualmg",
                 "WS 015": "heavyburst",
-                "WS 016": "heavyburst"
+                "WS 016": "heavyburst",
+                "WS 000": "pdburst",
+                "WS 017": "pdburst",
+                "WS 001": "tachyonlance",
+                "WS 002": "tachyonlance"
             }
         },
         {
@@ -24,16 +28,16 @@
             "weapons": {
                 "WS 003": "tpc",
                 "WS 004": "tpc",
-                "WS 011": "pdburst",
-                "WS 012": "pdburst",
                 "WS 005": "pdburst",
                 "WS 006": "pdburst",
                 "WS 013": "heavyburst",
                 "WS 014": "heavyburst",
-                "WS 007": "gravitonbeam",
-                "WS 008": "gravitonbeam",
-                "WS 009": "taclaser",
-                "WS 010": "taclaser"
+                "WS 009": "hveldriver",
+                "WS 010": "ionbeam",
+                "WS 008": "vulcan",
+                "WS 007": "vulcan",
+                "WS 012": "pilum_large",
+                "WS 011": "pilum_large"
             }
         }
     ]
