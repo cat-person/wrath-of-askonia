@@ -1,10 +1,13 @@
 {
     "displayName": "Standard",
-    "fluxCapacitors": 2,
-    "fluxVents": 0,
+    "fluxCapacitors": 0,
+    "fluxVents": 42,
     "goalVariant": true,
     "hullId": "woa_ravager",
-    "hullMods": [],
+    "hullMods": [
+        "hardenedshieldemitter",
+        "auxiliarythrusters"
+    ],
     "quality": 1.0,
     "variantId": "woa_ravager",
     "weaponGroups": [
@@ -36,8 +39,8 @@
                 "WS 010": "ionbeam",
                 "WS 008": "vulcan",
                 "WS 007": "vulcan",
-                "WS 012": "pilum_large",
-                "WS 011": "pilum_large"
+                "WS 011": "hydra",
+                "WS 012": "hydra"
             }
         }
     ]

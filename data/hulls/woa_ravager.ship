@@ -247,6 +247,72 @@
             "locations": [
                        7,    136.5
             ]
+        },
+        {
+            "id": "WS 020",
+            "size": "SMALL",
+            "type": "SYSTEM",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 200,
+            "locations": [
+                    -110,      -80
+            ]
+        },
+        {
+            "id": "WS 021",
+            "size": "SMALL",
+            "type": "SYSTEM",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 160,
+            "locations": [
+                    -110,       80
+            ]
+        },
+        {
+            "id": "WS 022",
+            "size": "SMALL",
+            "type": "SYSTEM",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 260,
+            "locations": [
+                     -20,   -120.5
+            ]
+        },
+        {
+            "id": "WS 023",
+            "size": "SMALL",
+            "type": "SYSTEM",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 100,
+            "locations": [
+                     -20,    120.5
+            ]
+        },
+        {
+            "id": "WS 024",
+            "size": "SMALL",
+            "type": "SYSTEM",
+            "mount": "TURRET",
+            "arc": 0,
+            "angle": 320,
+            "locations": [
+                     119,      -85
+            ]
+        },
+        {
+            "id": "WS 025",
+            "size": "SMALL",
+            "type": "SYSTEM",
+            "mount": "TURRET",
+            "arc": 0,
+            "angle": 40,
+            "locations": [
+                     119,       85
+            ]
         }
     ],
     "engineSlots": [
