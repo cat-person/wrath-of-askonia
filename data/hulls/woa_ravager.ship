@@ -18,8 +18,7 @@
     "viewOffset": 0,
     "builtInMods": [
         "andrada_mods",
-        "coherer",
-        "advancedcore"
+        "coherer"
     ],
     "builtInWeapons": {
         "WS 003": "tpc",

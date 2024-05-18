@@ -1,0 +1,2 @@
+name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sModDesc,sprite
+Andrada Defense Initiative,woa_andrada_defense_initiative,,,,"no_drop, no_sell",,,,FALSE,FALSE,0,0,0,0,woa.hullmods.AndradaDefenseInitiativeHullMod,Defensive drone wings are added to the ship,,,

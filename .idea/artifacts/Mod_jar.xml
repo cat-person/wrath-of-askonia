@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Mod.jar">
+    <output-path>jars/</output-path>
+    <root id="archive" name="Mod.jar">
+      <element id="module-output" name="WrathOfAskonia" />
+    </root>
+  </artifact>
+</component>
