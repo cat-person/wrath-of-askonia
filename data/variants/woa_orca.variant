@@ -1,17 +1,14 @@
 {
     "displayName": "Bully",
-    "fluxCapacitors": 5,
-    "fluxVents": 48,
+    "fluxCapacitors": 0,
+    "fluxVents": 49,
     "goalVariant": false,
     "hullId": "woa_orca",
     "hullMods": [
-        "targetingunit",
-        "heavyarmor",
-        "turretgyros"
-    ],
-    "sMods": [
         "turretgyros",
-        "augmentedengines"
+        "armoredweapons",
+        "missleracks",
+        "targetingunit"
     ],
     "quality": 0.0,
     "variantId": "woa_orca",
@@ -20,51 +17,46 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 013": "heavyburst",
-                "WS 014": "heavyburst",
-                "WS 000": "pdburst",
-                "WS 012": "lightneedler",
-                "WS 015": "vulcan",
-                "WS 016": "vulcan",
-                "WS 017": "heavyburst",
                 "WS 019": "gorgonpod",
                 "WS 020": "gorgonpod",
-                "WS 018": "heavyburst",
-                "WS 001": "guardian"
+                "WS 001": "guardian",
+                "WS 017": "shredder",
+                "WS 013": "gravitonbeam",
+                "WS 014": "gravitonbeam",
+                "WS 000": "lightneedler"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 002": "heavyneedler",
-                "WS 003": "heavyneedler",
                 "WS 006": "gorgonpod",
-                "WS 007": "gorgonpod"
+                "WS 007": "gorgonpod",
+                "WS 002": "shredder",
+                "WS 003": "shredder"
             }
         },
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 005": "tachyonlance",
-                "WS 004": "tachyonlance"
+                "WS 004": "autopulse",
+                "WS 005": "autopulse"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 010": "pdburst",
-                "WS 011": "lightneedler"
+                "WS 010": "lightneedler"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 008": "pdburst",
-                "WS 009": "pdburst"
+                "WS 008": "vulcan",
+                "WS 009": "vulcan"
             }
         }
     ],

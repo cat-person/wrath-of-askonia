@@ -5,5 +5,5 @@
     "version": "0.0.1",
     "description": "This mod will buff Diktat faction",
     "jars": ["jars/Mod.jar"],
-    "gameVersion": "0.97a"
+    "gameVersion": "0.98a"
 }
