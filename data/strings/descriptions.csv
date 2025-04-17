@@ -1,3 +1,5 @@
 id,type,text1,text2,text3,text4,notes
 woa_ravager,SHIP,"Ravager"
 woa_orca,SHIP,"Orca"
+woa_orca_m,SHIP,"Orca M"
+woa_orca_lg,SHIP,"Orca (LG)"

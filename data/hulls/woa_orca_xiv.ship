@@ -1,9 +1,9 @@
 {
     "hullName": "Orca",
-    "hullId": "woa_orca",
+    "hullId": "woa_orca_xiv",
     "hullSize": "CAPITAL_SHIP",
     "style": "MIDLINE",
-    "spriteName": "graphics/ships/woa_orca.png",
+    "spriteName": "graphics/ships/woa_orca_xiv.png",
     "height": 360,
     "width": 224,
     "center": [
@@ -17,6 +17,7 @@
     "shieldRadius": 220,
     "viewOffset": 0,
     "builtInMods": [
+        "fourteenth",
         "fluxbreakers",
         "defensive_targeting_array",
         "autorepair"

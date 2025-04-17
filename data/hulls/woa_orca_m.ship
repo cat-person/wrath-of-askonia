@@ -1,9 +1,9 @@
 {
-    "hullName": "Orca",
-    "hullId": "woa_orca_lg",
+    "hullName": "Orca M",
+    "hullId": "woa_orca_m",
     "hullSize": "CAPITAL_SHIP",
     "style": "MIDLINE",
-    "spriteName": "graphics/ships/woa_orca.png",
+    "spriteName": "graphics/ships/woa_orca_m.png",
     "height": 360,
     "width": 224,
     "center": [
@@ -17,11 +17,9 @@
     "shieldRadius": 220,
     "viewOffset": 0,
     "builtInMods": [
-        "solar_shielding",
         "fluxbreakers",
-        "woa_andrada_defense_initiative",
-        "defensive_targeting_array",
-        "heavyarmor"
+        "heavyarmor",
+        "missleracks"
     ],
     "builtInWings": [],
     "builtInModules": null,
@@ -73,7 +71,7 @@
         {
             "id": "WS 004",
             "size": "LARGE",
-            "type": "ENERGY",
+            "type": "HYBRID",
             "mount": "TURRET",
             "arc": 190,
             "angle": 90,
@@ -84,7 +82,7 @@
         {
             "id": "WS 005",
             "size": "LARGE",
-            "type": "ENERGY",
+            "type": "HYBRID",
             "mount": "TURRET",
             "arc": 190,
             "angle": 270,
@@ -95,7 +93,7 @@
         {
             "id": "WS 008",
             "size": "SMALL",
-            "type": "HYBRID",
+            "type": "ENERGY",
             "mount": "TURRET",
             "arc": 130,
             "angle": 140,
@@ -106,7 +104,7 @@
         {
             "id": "WS 009",
             "size": "SMALL",
-            "type": "HYBRID",
+            "type": "ENERGY",
             "mount": "TURRET",
             "arc": 130,
             "angle": 220,
@@ -116,8 +114,8 @@
         },
         {
             "id": "WS 000",
-            "size": "SMALL",
-            "type": "HYBRID",
+            "size": "MEDIUM",
+            "type": "ENERGY",
             "mount": "TURRET",
             "arc": 120,
             "angle": 300,
@@ -127,8 +125,8 @@
         },
         {
             "id": "WS 010",
-            "size": "SMALL",
-            "type": "HYBRID",
+            "size": "MEDIUM",
+            "type": "ENERGY",
             "mount": "TURRET",
             "arc": 120,
             "angle": 60,
@@ -161,7 +159,7 @@
         {
             "id": "WS 001",
             "size": "LARGE",
-            "type": "HYBRID",
+            "type": "BALLISTIC",
             "mount": "TURRET",
             "arc": 240,
             "angle": 180,
@@ -203,25 +201,25 @@
             ]
         },
         {
-            "id": "LB 000",
-            "size": "SMALL",
-            "type": "LAUNCH_BAY",
-            "mount": "HIDDEN",
+            "id": "WS 011",
+            "size": "LARGE",
+            "type": "MISSILE",
+            "mount": "HARDPOINT",
             "arc": 0,
-            "angle": 0,
+            "angle": 240,
             "locations": [
-                   -71.5,     70.5
+                     -73,    -48.5
             ]
         },
         {
-            "id": "LB 001",
-            "size": "SMALL",
-            "type": "LAUNCH_BAY",
-            "mount": "HIDDEN",
+            "id": "WS 012",
+            "size": "LARGE",
+            "type": "MISSILE",
+            "mount": "HARDPOINT",
             "arc": 0,
-            "angle": 0,
+            "angle": 120,
             "locations": [
-                   -71.5,    -68.5
+                     -73,     48.5
             ]
         }
     ],

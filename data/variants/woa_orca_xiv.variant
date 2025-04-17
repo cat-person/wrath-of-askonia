@@ -1,0 +1,43 @@
+{
+    "displayName": "XIV",
+    "fluxCapacitors": 1,
+    "fluxVents": 50,
+    "goalVariant": false,
+    "hullId": "woa_orca_xiv",
+    "hullMods": [
+        "heavyarmor",
+        "turretgyros",
+        "targetingunit",
+        "magazines"
+    ],
+    "quality": 0.0,
+    "variantId": "woa_orca_xiv_custom",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "shredder",
+                "WS 017": "shredder",
+                "WS 003": "shredder",
+                "WS 004": "multineedler",
+                "WS 005": "multineedler",
+                "WS 010": "lightac",
+                "WS 000": "lightac",
+                "WS 008": "lightac",
+                "WS 009": "lightac",
+                "WS 001": "devastator",
+                "WS 013": "gravitonbeam",
+                "WS 014": "ionbeam",
+                "WS 006": "harpoonpod",
+                "WS 019": "harpoonpod",
+                "WS 020": "harpoonpod",
+                "WS 007": "harpoonpod"
+            }
+        }
+    ],
+    "wings": [
+        "wasp_wing",
+        "wasp_wing"
+    ]
+}

@@ -3,7 +3,7 @@
     "hullId": "woa_orca_lg",
     "hullSize": "CAPITAL_SHIP",
     "style": "MIDLINE",
-    "spriteName": "graphics/ships/woa_orca.png",
+    "spriteName": "graphics/ships/woa_orca_lg.png",
     "height": 360,
     "width": 224,
     "center": [
