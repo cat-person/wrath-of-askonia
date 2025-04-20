@@ -11,7 +11,7 @@
         "magazines"
     ],
     "quality": 0.0,
-    "variantId": "woa_orca_xiv_custom",
+    "variantId": "woa_orca_xiv",
     "weaponGroups": [
         {
             "autofire": false,
