@@ -1,6 +1,9 @@
 {
     "combatLarge": {
         "woa_ravager": 1,
-        "woa_orca": 2
+        "woa_orca": 1,
+        "woa_orca_lg": 2,
+        "woa_orca_m": 2,
+        "woa_orca_xiv": 1
     }
 }
