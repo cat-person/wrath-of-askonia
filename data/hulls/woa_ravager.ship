@@ -18,13 +18,11 @@
     "viewOffset": 0,
     "builtInMods": [
         "andrada_mods",
-        "coherer"
+        "comp_structure"
     ],
     "builtInWeapons": {
         "WS 003": "tpc",
-        "WS 004": "tpc",
-        "WS 001": "gigacannon",
-        "WS 002": "gigacannon"
+        "WS 004": "tpc"
     },
     "builtInWings": [],
     "builtInModules": null,
@@ -32,7 +30,7 @@
         {
             "id": "WS 001",
             "size": "LARGE",
-            "type": "BUILT_IN",
+            "type": "SYNERGY",
             "mount": "HARDPOINT",
             "arc": 4,
             "angle": -1,
@@ -43,7 +41,7 @@
         {
             "id": "WS 002",
             "size": "LARGE",
-            "type": "BUILT_IN",
+            "type": "SYNERGY",
             "mount": "HARDPOINT",
             "arc": 4,
             "angle": 1,
@@ -378,37 +376,37 @@
               56,      126,
             27.5,      130,
               11,      139,
-        
+
            -18.5,      109,
              -42,    108.5,
            -37.5,      123,
              -93,    129.5,
           -114.5,      123,
-        
+
           -135.5,     65.5,
           -161.5,     70.5,
             -178,       53,
             -164,       44,
             -164,      -44,
-        
+
             -178,      -53,
             -157,      -72,
           -135.5,    -65.5,
           -114.5,     -123,
              -93,   -129.5,
-        
+
            -37.5,     -123,
              -42,   -108.5,
            -18.5,     -109,
               11,     -139,
             27.5,     -130,
-        
+
               56,     -126,
              153,      -98,
            166.5,      -69,
              140,      -49,
             87.5,      -48,
-        
+
               82,      -25,
               82,       25,
             87.5,       48,
